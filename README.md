@@ -28,5 +28,6 @@ Neste steg:
     - Antall sesonger/antall episoder
 
 4. Sette opp rapporter
-5. Mulighet for å legge til/fjerne tvserier
-6. Implementere bedre GUI (Spring Boot?)
+5. Endre slik at brukeren ikke bare får opp et promt og så er applikasjonen ferdig, men kan samhandle med applikasjonen så lenge de ønsker.
+6. Mulighet for å legge til/fjerne tvserier
+7. Implementere bedre GUI (Spring Boot?)
